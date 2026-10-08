@@ -1,4 +1,4 @@
-# Black-Scholes Options Pricer 
+# Black-Scholes Options Pricer
 
 A lightweight, fast, and self-contained C++ terminal application for calculating European Call and Put option prices, as well as their associated Greeks (Delta, Gamma, Vega, Theta, and Rho) using the Black-Scholes-Merton model.
 
